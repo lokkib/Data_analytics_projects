@@ -25,10 +25,8 @@
 
 ## Стек технологий
 * Pandas
-*  statsmodels.formula.api
+* statsmodels.formula.api
 * statsmodels.api
-
-
 ## Вывод
 
 В рамках исследования построено три регрессионные модели. Первая модель основана на одном предикторе цены – horsepower (лошадиная сила).
