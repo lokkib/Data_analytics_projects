@@ -1,9 +1,5 @@
-# Karpov_courses_DA
+# Analytics projects
 
-# Karpov courses - Аналитик Данных
-
-## Описание
-Портфолио проектов, выполненных в рамках курса [Аналитик Данных](https://karpov.courses/analytics) от Karpov courses
 
 ## Основные инструменты и навыки:
 - Языки: Python (Pandas, NumPy, SciPy, Statsmodels, Matplotlib, Seaborn), SQL
