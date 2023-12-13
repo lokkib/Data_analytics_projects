@@ -3,7 +3,7 @@
 
 ## Основные инструменты и навыки:
 - Языки: Python (Pandas, NumPy, SciPy, Statsmodels, Matplotlib, Seaborn), SQL
-- Построение дашбордов: Tableau
+- Построение дашбордов: Tableau, PowerBi
 - А/В-тестирование
 - Работа с гипотезами (статистическая проверка)
 
