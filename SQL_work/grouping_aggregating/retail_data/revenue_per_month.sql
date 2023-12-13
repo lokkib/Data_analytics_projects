@@ -1,3 +1,5 @@
+-- Посчитать выручку по месяцам.
+
 SELECT 
   toStartOfMonth(InvoiceDate) AS month, 
   SUM(Quantity * UnitPrice) AS revenue 

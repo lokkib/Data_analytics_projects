@@ -1,3 +1,5 @@
+-- Выяснить, сколько всего уникальных юзеров совершили покупки в приложении в разрезе каждого источника.
+
 SELECT 
   Source, 
   COUNT(DISTINCT checks.UserID) AS unique_users 

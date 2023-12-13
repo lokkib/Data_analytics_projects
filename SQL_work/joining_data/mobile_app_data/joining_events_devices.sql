@@ -1,3 +1,5 @@
+ -- C помощью JOIN дополнить таблицу events данными о UserID пользователей из таблицы devices
+
 SELECT 
   events.*, 
   UserID 
