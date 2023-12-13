@@ -1,3 +1,5 @@
+-- Вывести минимальный (MinCheck), максимальный (MaxCheck) и средний (AvgCheck) чек по дням. В результирующей таблице использовать сортировку по убыванию  столбца BuyDate.
+
 SELECT 
   BuyDate, 
   MIN(Rub) AS MinCheck, 

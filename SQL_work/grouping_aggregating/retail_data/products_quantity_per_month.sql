@@ -1,3 +1,5 @@
+-- Посчитать среднее число купленных товаров по стране и среднюю цену товара, отсортировать по убыванию средней цены товара.
+
 SELECT 
   toStartOfMonth(InvoiceDate) AS month, 
   AVG(Quantity) AS average_quantity, 
