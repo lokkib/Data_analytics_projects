@@ -1,3 +1,5 @@
+-- Посчитать число уникальных DeviceID в инсталлах, для которых присутствуют просмотры в таблице events с разбивкой по платформам. 
+
 SELECT 
   AppPlatform, 
   COUNT (DISTINCT installs.DeviceID) as unique_devices 
